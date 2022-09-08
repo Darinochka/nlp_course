@@ -75,3 +75,11 @@ debian/reproducible-experiment-platform
 debian/files
 *.substvars
 *.debhelper.log
+
+# Virtual environment
+.venv/
+Pipfile
+Pipfile.lock
+
+# Text file / datasets
+*.txt
